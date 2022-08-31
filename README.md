@@ -1,2 +1,3 @@
 # Task-Tracker
-just the front end of a react app for a task tracker
+This is just the frontend of a task tracker, made with React.
+
